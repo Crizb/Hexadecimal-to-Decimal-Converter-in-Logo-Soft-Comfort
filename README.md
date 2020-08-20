@@ -14,6 +14,6 @@ Instructions:
 4. Input 2th number and press I17
 5. Input 1th number and press I17
 6. Press I17 to start converting
-7. Imidiatelly you can read your converted result
+7. Immediately you can read your converted result
 8. Press I17 to reset
 9. Go to step 2
